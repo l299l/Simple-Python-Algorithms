@@ -8,7 +8,7 @@ Simple algorithms fastly explained and visualized.
 - [ ] K nearest neighbours
 - [ ] Instruction selection 
 - [ ] Binary search Algorithm
-- [ ] Prefix sum
+- [x] Prefix sum
 - [ ] Compartment trees
 - [ ] Floyd-Warshall algorithm
 - [ ] Bellman-Ford algorithm
