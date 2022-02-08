@@ -4,7 +4,7 @@ Simple algorithms fastly explained and visualized.
 ### Algorithms
 - [x] Dijkstra Algorithm
 - [x] Breadth-first search
-- [ ] Greedy algorithms
+- [x] Greedy algorithms
 - [ ] K nearest neighbours
 - [ ] Instruction selection 
 - [ ] Binary search Algorithm
