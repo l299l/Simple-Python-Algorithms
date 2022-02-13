@@ -6,8 +6,6 @@ Simple algorithms fastly explained and visualized.
 - [x] Breadth-first search
 - [x] Greedy algorithms
 - [x] K nearest neighbours
-- [ ] Instruction selection 
-- [ ] Binary search Algorithm
 - [x] Prefix sum
 - [ ] Compartment trees
 - [ ] Floyd-Warshall algorithm
