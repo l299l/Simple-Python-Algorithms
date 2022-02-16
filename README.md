@@ -1,5 +1,5 @@
-# Maths-Algorithms 📈
-Simple algorithms fastly explained and visualized.
+# Simple-Python-Algorithms 📈
+Simple algorithms and data structures fastly explained and visualized.
 <br>
 ### Algorithms
 - [x] Dijkstra Algorithm
