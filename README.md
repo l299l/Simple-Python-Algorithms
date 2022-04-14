@@ -7,8 +7,9 @@ Simple algorithms fastly explained and visualized.
 - [x] Greedy algorithms
 - [x] K nearest neighbours
 - [x] Prefix sum
-- [ ] Compartment trees
 - [ ] Floyd-Warshall algorithm
+- [x] Dynamic algorithms
+- [x] Binary search
 - [ ] Bellman-Ford algorithm
 - [ ] Fourier transform
 - [ ] Parallel algorithms
@@ -19,6 +20,9 @@ Simple algorithms fastly explained and visualized.
 - [ ] Linear programming
 
 ### Data structures
+- [ ] Binary tree
 - [ ] Binary search tree
 - [ ] Inverted index
+- [ ] Compartment trees
+- [ ] Sparse table
 
